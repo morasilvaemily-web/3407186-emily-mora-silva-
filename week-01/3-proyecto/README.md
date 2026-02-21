@@ -334,10 +334,10 @@ apellido-nombre-proyecto/
 # Ficha de [Tu Dominio] - [Tu Nombre]
 
 ## 📋 Información
-- **Nombre**: [Tu nombre completo]
-- **Fecha**: [DD/MM/YYYY]
-- **Dominio Asignado**: [Tu dominio]
-- **Entidad Principal**: [Qué representa tu ficha]
+- **Nombre**: [wmily mora silva ]
+- **Fecha**: [14/02/26]
+- **Dominio Asignado**: [sisplataforma de trasporte publico inteligente ]
+- **Entidad Principal**: [trasporte publico]
 
 ## 🎯 Descripción
 [Breve descripción de lo que muestra tu ficha]
